@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1072677752033",
+    "project_id": "shohanchat",
+    "storage_bucket": "shohanchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072677752033:android:cfc965798b021f8d75fba0",
+        "android_client_info": {
+          "package_name": "com.shariar99.shohanchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072677752033-6tdsuou2vqg6hcaipbijjs8kdpuju0tl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ6XTM9qczeGbP503jzFRKvr4wBLnergw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072677752033-6tdsuou2vqg6hcaipbijjs8kdpuju0tl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
